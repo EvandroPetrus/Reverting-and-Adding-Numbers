@@ -22,7 +22,7 @@ int rng6 = randomNumber.Next(9);
 int lastdigit, lastdigit2, lastdigit3;
 
 if(rng + rng4 >= 10){
-    lastdigit = rng + rng4 % 10;
+    lastdigit = (rng + rng4) % 10;
 }
 
 else{
@@ -30,7 +30,7 @@ else{
 }
 
 if (rng2 + rng5 >= 10){
-    lastdigit2 = rng2 + rng5 % 10;
+    lastdigit2 = (rng2 + rng5) % 10;
 }
 
 else{
@@ -38,7 +38,7 @@ else{
 }
 
 if (rng3 + rng6 >= 10){
-    lastdigit3 = rng3 + rng6 %10;
+    lastdigit3 = (rng3 + rng6) %10;
 }
 
 else{
