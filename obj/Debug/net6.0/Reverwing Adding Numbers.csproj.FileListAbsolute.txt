@@ -1,0 +1,15 @@
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\bin\Debug\net6.0\Reverwing Adding Numbers.exe
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\bin\Debug\net6.0\Reverwing Adding Numbers.deps.json
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\bin\Debug\net6.0\Reverwing Adding Numbers.runtimeconfig.json
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\bin\Debug\net6.0\Reverwing Adding Numbers.dll
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\bin\Debug\net6.0\Reverwing Adding Numbers.pdb
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\obj\Debug\net6.0\Reverwing Adding Numbers.csproj.AssemblyReference.cache
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\obj\Debug\net6.0\Reverwing Adding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\obj\Debug\net6.0\Reverwing Adding Numbers.AssemblyInfoInputs.cache
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\obj\Debug\net6.0\Reverwing Adding Numbers.AssemblyInfo.cs
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\obj\Debug\net6.0\Reverwing Adding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\obj\Debug\net6.0\Reverwing Adding Numbers.dll
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\obj\Debug\net6.0\refint\Reverwing Adding Numbers.dll
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\obj\Debug\net6.0\Reverwing Adding Numbers.pdb
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\obj\Debug\net6.0\Reverwing Adding Numbers.genruntimeconfig.cache
+C:\Users\evand\Desktop\Projects\dotNet Projects\LeetCode Projects\Reverwing Adding Numbers\obj\Debug\net6.0\ref\Reverwing Adding Numbers.dll
